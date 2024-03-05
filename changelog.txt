@@ -1,7 +1,7 @@
 ChangeLog [DownHack v1]
 
-[+] Спиздил красивый экран
-[+] Если нажать на DOWNCOCK ты перейдёшь в дискорд сервер
-[+] Хуй знает, проверять ничё не буду
-[/] Фикс хуйни на начальном экране
-[*] Вхит лашпед
+[+] I've stolen a beautiful screen
+[+] If you click on the DOWNCOCK, you will go to the discord server
+[+] Fuck knows, I won't check anything
+[/] Fixed this shit on the home screen
+[*] _WHYTT_ goofy
